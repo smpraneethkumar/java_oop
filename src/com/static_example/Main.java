@@ -18,5 +18,13 @@ public class Main {
         System.out.println(population);
         System.out.println(Human.population);
 
+        Main s = new Main();
+        s.greeting();
+
+//        greeting();
+    }
+//    we know that something which is not static, belongs to an object
+    void greeting(){
+        System.out.println("hello world");
     }
 }
