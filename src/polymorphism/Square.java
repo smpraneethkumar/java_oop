@@ -6,6 +6,6 @@ public class Square extends Shapes{
 
         System.out.println("area is square of size");
 
-        System.out.println(a);
+
     }
 }
