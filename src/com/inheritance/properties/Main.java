@@ -1,4 +1,4 @@
-package inheritance.properties;
+package com.inheritance.properties;
 
 public class Main {
 

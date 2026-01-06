@@ -1,7 +1,5 @@
 package access;
 
-import polymorphism.override.Parent;
-
 public class SubClass {
 
     String name = "Praneeth Kumar";
