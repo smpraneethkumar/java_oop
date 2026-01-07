@@ -8,6 +8,6 @@ public class Main {
         s.career();
 
         Daughter d = new Daughter();
-        d.career();~
+        d.career();
     }
 }
